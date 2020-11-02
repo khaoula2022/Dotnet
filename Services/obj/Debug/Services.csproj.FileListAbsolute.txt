@@ -1,0 +1,9 @@
+C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\Services\bin\Debug\Services.dll
+C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\Services\bin\Debug\Services.pdb
+C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\Services\bin\Debug\Domain.dll
+C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\Services\bin\Debug\Domain.pdb
+C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\Services\obj\Debug\Services.dll
+C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\Services\obj\Debug\Services.pdb
