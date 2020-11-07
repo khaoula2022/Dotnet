@@ -16,3 +16,9 @@ C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\Domain\obj\Debug\Domain.cspr
 C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
 C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\Domain\obj\Debug\Domain.dll
 C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\Domain\obj\Debug\Domain.pdb
+C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\Domain\bin\Debug\Domain.dll.config
+C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\Domain\bin\Debug\EntityFramework.dll
+C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\Domain\bin\Debug\EntityFramework.xml
+C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\Domain\obj\Debug\Domain.csproj.CopyComplete

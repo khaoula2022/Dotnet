@@ -41,7 +41,7 @@ namespace Domain
         public Boolean IsApproved { get; set; }
         public DateTime DateCreated { get; set; }
         public string Email { get; set; }
-        public List<Product> Products { get; set; }
+        public virtual ICollection  <Product> Products { get; set; }
         //public Boolean Login(string username , string password)
         //{
         //    // if(UserName.Equals(username)&& Password.Equals(password))

@@ -9,7 +9,12 @@ namespace Services
 {
     public class ServiceProvider
     {
-        public List<Provider> listProviders = new List<Provider>();
+       
+    }
+}
+
+/***********
+ *  public List<Provider> listProviders = new List<Provider>();
 
         public List<Provider> GetProviderByName(string name)
         {
@@ -42,6 +47,4 @@ namespace Services
             {
                 Console.WriteLine($"name= {item.N} Email={item.E}");
             }
-        }
-    }
-}
+        }*/

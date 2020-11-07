@@ -30,3 +30,12 @@ C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\GUI\obj\Debug\GUI.csproj.Cor
 C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\GUI\obj\Debug\GUI.csproj.CopyComplete
 C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\GUI\obj\Debug\GUI.exe
 C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\GUI\obj\Debug\GUI.pdb
+C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\GUI\bin\Debug\EntityFramework.dll
+C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\GUI\bin\Debug\Data.dll
+C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\GUI\bin\Debug\Domain.dll.config
+C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\GUI\bin\Debug\Services.dll.config
+C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\GUI\bin\Debug\EntityFramework.xml
+C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\GUI\bin\Debug\Data.pdb
+C:\Users\khaoula\Desktop\4eme\DOTNET\GestionProduit\GUI\bin\Debug\Data.dll.config

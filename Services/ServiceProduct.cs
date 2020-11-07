@@ -1,4 +1,5 @@
-﻿using Domain;
+﻿using Data;
+using Domain;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +10,28 @@ namespace Services
 {
     public class ServicesProduct
     {
+       
+
+        public GPContext Ctx { get;  set; }
+        public ServicesProduct()
+        {
+            Ctx = new GPContext();
+
+        }
+        public void AddProduct (Product p )
+        {
+            Ctx.Products.Add(p);
+        }
+        public void SaveChanges ()
+        {
+            Ctx.SaveChanges();
+        }
+    }
+}
+
+
+/****
+ * 
         public List<Product> listProdcuts = new List<Product>();
         public Func<string, List<Product>> FindProduct;
         public Action<Category> ScanProduct;
@@ -103,5 +126,4 @@ namespace Services
             //return req2;
 
         }
-    }
-}
+*/

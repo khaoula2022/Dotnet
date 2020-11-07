@@ -15,11 +15,21 @@ namespace GUI
             Product p1 = new Product();
             p1.Name = "biscuit";
             p1.DateProd = DateTime.Now;
-            Product p2 = new Product("Dwide", 32, 500, "eat some dwide", new DateTime(2020,10,2));
+            Product p2 = new Product("Dwide", 32, 500, "eat some dwide", new DateTime(2020, 10, 2));
             //initialiseur d'objet
-            Product p3 = new Product { Name = "pomme", Price = 12, Quantity = 17 };
+            Product p3 = new Product { Name = "pomme", Quantity = 17  ,Price = 12, Description = "ok"  , DateProd = new DateTime(2020, 10, 2) };
             // Console.WriteLine(p3);
-            Provider pr1 = new Provider { UserName ="username" ,Password ="abcdef" ,
+
+            ServicesProduct sp = new ServicesProduct();
+            sp.AddProduct(p3);
+            sp.SaveChanges();
+            Console.WriteLine(" base genere ");
+            Console.ReadKey();
+        }
+    }
+}
+/********
+ *  Provider pr1 = new Provider { UserName ="username" ,Password ="abcdef" ,
                 ConfirmPassword = "abcdef" , Email = "ayoub@gmail"
 
             };
@@ -62,4 +72,4 @@ namespace GUI
             Console.WriteLine(p2.InCategory(ct));
         }
     }
-}
+**/
